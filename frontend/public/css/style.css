@@ -1,0 +1,11 @@
+.new-title {
+    border: 2px solid red;
+}
+
+.new-title li {
+    margin: 20px 10px;
+    text-decoration: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border: 1px solid green;
+    padding: 3px 3px;
+}
